@@ -1,0 +1,12 @@
+name: LootableChests
+version: '${project.version}'
+main: com.dami.lootablechests.LootableChests
+api-version: '1.19'
+author: Dami
+description: LootableChests
+commands:
+  lootablechest:
+    description: LootableChests
+    usage: /<command>
+    aliases: [lc]
+    permission: lootablechest.admin  # Define a permission node for the command

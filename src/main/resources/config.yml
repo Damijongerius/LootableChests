@@ -1,0 +1,18 @@
+
+#auto settings
+#these will be the default settings on creation of a lootableChest
+
+#the range of items added per refresh round
+roundRange: false
+
+#place a range on items meaning they can be between their actual number and 1
+itemRange: false
+
+#on refresh should the plugin replace the contents or not
+replaceAll: false
+
+#how many items should it add at a refresh
+rnds: 3;
+
+#per how many ticks should the plugin refresh
+refreshTime: 72000;
